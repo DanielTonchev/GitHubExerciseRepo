@@ -1,2 +1,7 @@
 content...
+
+making conflict via local
+
 making changes here
+
+Resolved conflict!
